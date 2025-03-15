@@ -1,6 +1,6 @@
 .main{
     height: 420px;
-    width: 900px;
+    width: 1000px;
     display: grid;
     grid-template-columns: auto auto auto;
     margin-left: 100px;
@@ -38,7 +38,7 @@ p{
 }
 .plus{
     height: 30px;
-    width: 280px;
+    width: 380px;
     background-color: whitesmoke;
     display: flex;
     margin-left:100px;
